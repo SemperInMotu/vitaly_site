@@ -1,0 +1,9 @@
+import { SITE } from '@/lib/i18n';
+import type { MetadataRoute } from 'next';
+
+export default function robots(): MetadataRoute.Robots {
+  return {
+    rules: { userAgent: '*', allow: '/' },
+    sitemap: `${SITE}/sitemap.xml`,
+  };
+}
