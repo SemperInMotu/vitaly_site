@@ -107,7 +107,7 @@ export const pages = {
       description: 'Vitaly Khoruzhko: entrepreneur and full-stack, 20+ years TMS/CRM/ERP/BI.',
       eyebrow: 'About',
       heading: 'I build systems from knowledge.',
-      lead: 'Engineer, entrepreneur, and product builder. I’ve spent more than 20 years working with software, data, and business systems. Today, I explore AI and knowledge systems, while in my spare time I’m building my own family tree, which has long since grown into a research project of its own.',
+      lead: 'I’m Vitaly Khoruzhko — an engineer, entrepreneur, and product builder. I’ve spent more than 20 years working with software, data, and business systems. Today, I explore AI and knowledge systems, while in my spare time I’m building my own family tree, which has long since grown into a research project of its own.',
       products:
         'Products stay on separate surfaces: Domino on alfakit.by, Ops/data/AI on semperinmotu.com, family history on heritavia.vitalykhoruzhko.com.',
       cta: 'Get in touch',
@@ -116,156 +116,156 @@ export const pages = {
         introTitle: 'I’ve always been curious about how things fit together.',
         intro: `My career started with code.
     
-    In 2001, I began working as a software developer. I was fascinated by the idea that a few lines of code could turn an abstract idea into something real: a system, a tool, a product.
+In 2001, I began working as a software developer. I was fascinated by the idea that a few lines of code could turn an abstract idea into something real: a system, a tool, a product.
     
-    More than twenty years later, I still feel the same way.
+More than twenty years later, I still feel the same way.
     
-    But somewhere along the way, I realised that writing code was only one part of what I really enjoyed.
+But somewhere along the way, I realised that writing code was only one part of what I really enjoyed.
     
-    I became interested in the systems behind the software: how businesses work, how people make decisions, how information moves through an organisation, where complexity comes from, and how technology can make that complexity easier to understand.
+I became interested in the systems behind the software: how businesses work, how people make decisions, how information moves through an organisation, where complexity comes from, and how technology can make that complexity easier to understand.
     
-    That took me from software development into business analysis, information systems, BI, product development and eventually entrepreneurship.`,
+That took me from software development into business analysis, information systems, BI, product development and eventually entrepreneurship.`,
     
         buildingTitle: 'Building things that last',
         building: `I have always preferred building something of my own to simply working on someone else’s roadmap.
     
-    One of the results of that approach is a TMS platform for logistics and forwarding companies that I have been developing for many years.
+One of the results of that approach is a TMS platform for logistics and forwarding companies that I have been developing for many years.
     
-    It started as software.
+It started as software.
     
-    Then it became a product.
+Then it became a product.
     
-    Then a business.
+Then a business.
     
-    And eventually it became a kind of laboratory where I learned about architecture, product strategy, automation, integrations, analytics, customers, pricing, business models and all the messy things that happen between an idea and a real product.
+And eventually it became a kind of laboratory where I learned about architecture, product strategy, automation, integrations, analytics, customers, pricing, business models and all the messy things that happen between an idea and a real product.
     
-    I still write code. I still design systems. I still enjoy opening an empty project and figuring out how to make something work.
+I still write code. I still design systems. I still enjoy opening an empty project and figuring out how to make something work.
     
-    But these days I am less interested in technology for technology’s sake.
+But these days I am less interested in technology for technology’s sake.
     
-    I care about useful systems.`,
+I care about useful systems.`,
     
         dataTitle: 'Following the data',
         data: `My academic background is in artificial intelligence and geographic information systems.
     
-    Perhaps that explains some of my obsessions.
+Perhaps that explains some of my obsessions.
     
-    I like maps.
+I like maps.
     
-    I like graphs.
+I like graphs.
     
-    I like databases.
+I like databases.
     
-    I like patterns.
+I like patterns.
     
-    I like taking something chaotic and trying to find the structure hidden inside.
+I like taking something chaotic and trying to find the structure hidden inside.
     
-    Today my curiosity naturally leads me toward AI, LLMs, knowledge systems, automation and new ways of working with information.
+Today my curiosity naturally leads me toward AI, LLMs, knowledge systems, automation and new ways of working with information.
     
-    I am particularly interested in what happens when AI is combined with structured data, domain knowledge and systems designed around real human workflows.
+I am particularly interested in what happens when AI is combined with structured data, domain knowledge and systems designed around real human workflows.
     
-    The technology changes incredibly quickly.
+The technology changes incredibly quickly.
     
-    The question that interests me remains surprisingly stable:
+The question that interests me remains surprisingly stable:
     
-    How can we turn knowledge into something useful?`,
+How can we turn knowledge into something useful?`,
     
         genealogyTitle: 'Then I discovered that genealogy was a systems problem too',
         genealogy: `For more than 15 years, I have been researching my own family history.
     
-    At first it was simply curiosity.
+At first it was simply curiosity.
     
-    Who were my ancestors?
+Who were my ancestors?
     
-    Where did they live?
+Where did they live?
     
-    What happened to them?
+What happened to them?
     
-    What did their world look like?
+What did their world look like?
     
-    Then the rabbit hole opened.
+Then the rabbit hole opened.
     
-    Archives. Church records. Census lists. Land documents. Old maps. Surnames. Places that disappeared from modern maps. Different spellings of the same name. Thousands of people connected by dozens of family lines.
+Archives. Church records. Census lists. Land documents. Old maps. Surnames. Places that disappeared from modern maps. Different spellings of the same name. Thousands of people connected by dozens of family lines.
     
-    And eventually DNA.
+And eventually DNA.
     
-    The deeper I went, the more familiar the problem became.
+The deeper I went, the more familiar the problem became.
     
-    Genealogy is essentially a massive, messy information system.
+Genealogy is essentially a massive, messy information system.
     
-    The data is fragmented across archives, databases, maps, documents, family stories and DNA matches.
+The data is fragmented across archives, databases, maps, documents, family stories and DNA matches.
     
-    The challenge is not simply finding another document.
+The challenge is not simply finding another document.
     
-    The challenge is connecting the pieces and understanding what they mean together.
+The challenge is connecting the pieces and understanding what they mean together.
     
-    That is exactly the kind of problem I have always enjoyed solving.
+That is exactly the kind of problem I have always enjoyed solving.
     
-    So genealogy stopped being just a hobby.
+So genealogy stopped being just a hobby.
     
-    It became another way to apply the same mindset.`,
+It became another way to apply the same mindset.`,
     
         connectionTitle: 'Different projects. Same obsession.',
         connection: `Software.
     
-    AI.
+AI.
     
-    Data.
+Data.
     
-    Maps.
+Maps.
     
-    Business.
+Business.
     
-    Genealogy.
+Genealogy.
     
-    On paper, they don’t seem to belong together.
+On paper, they don’t seem to belong together.
     
-    In my head, they do.
+In my head, they do.
     
-    I am interested in complex systems and the hidden connections inside them.
+I am interested in complex systems and the hidden connections inside them.
     
-    I like taking scattered pieces of information and turning them into a picture.
+I like taking scattered pieces of information and turning them into a picture.
     
-    I like building things rather than just talking about them.
+I like building things rather than just talking about them.
     
-    And I like projects where there is still something unknown to discover.
+And I like projects where there is still something unknown to discover.
     
-    That is probably why I have never been very good at having just one professional identity.
+That is probably why I have never been very good at having just one professional identity.
     
-    I am an engineer.
+I am an engineer.
     
-    An entrepreneur.
+An entrepreneur.
     
-    A product builder.
+A product builder.
     
-    A researcher.
+A researcher.
     
-    And, increasingly, a collector and organiser of knowledge.`,
+And, increasingly, a collector and organiser of knowledge.`,
     
         nowTitle: 'What I’m building now',
         now: `Today my work spans several directions.
     
-    I continue developing software products and exploring AI-powered systems.
+I continue developing software products and exploring AI-powered systems.
     
-    I experiment with new ways of organising and using knowledge.
+I experiment with new ways of organising and using knowledge.
     
-    And through Heritavia, I help people reconstruct their family histories using archival research, historical sources, maps and genetic genealogy.
+And through Heritavia, I help people reconstruct their family histories using archival research, historical sources, maps and genetic genealogy.
     
-    These projects may eventually evolve into something very different from what they are today.
+These projects may eventually evolve into something very different from what they are today.
     
-    That’s part of the fun.
+That’s part of the fun.
     
-    I don’t have a perfectly defined 10-year plan.
+I don’t have a perfectly defined 10-year plan.
     
-    I have a direction.`,
+I have a direction.`,
     
         closing: `Build useful things.
     
-    Follow interesting questions.
+Follow interesting questions.
     
-    Connect the dots.
+Connect the dots.
     
-    And keep learning.`,
+And keep learning.`,
     
         signature: 'Knowledge → systems → discovery.',
       },
@@ -294,7 +294,7 @@ export const pages = {
     home: {
       title: 'Vitaly Khoruzhko — проекты',
       description: 'Персональный хаб Виталия Хоружко: ALFAKIT, Semper In Motu, Heritavia.',
-      brand: 'Vitaly Khoruzhko',
+      brand: 'Виталий Хоружко',
       lead: 'Строю системы из знаний — для логистики, данных и семейной истории.',
       support: 'Каждый проект живёт на своём сайте. Здесь — портфель и точка входа.',
       ctaProjects: 'Смотреть проекты →',
@@ -346,57 +346,57 @@ export const pages = {
       description: 'Виталий Хоружко: предприниматель и full-stack, 20+ лет TMS/CRM/ERP/BI.',
       eyebrow: 'About',
       heading: 'Я создаю системы из знаний.',
-      lead: 'Инженер, предприниматель и создатель продуктов. Более 20 лет в разработке ПО, данных и бизнес-системах. Сегодня исследую AI и системы знаний, а в свободное время строю собственное семейное дерево, которое уже давно превратилось в отдельное исследование.',
+      lead: 'Я — Виталий Хоружко, инженер, предприниматель и создатель продуктов. Более 20 лет в разработке ПО, данных и бизнес-системах. Сегодня исследую AI и системы знаний, а в свободное время строю собственное семейное дерево, которое уже давно превратилось в отдельное исследование.',
       products:
         'Продукты и услуги не смешиваю на одной витрине: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, семейная история — на heritavia.vitalykhoruzhko.com.',
       cta: 'Связаться',
     
       story: {
-  introTitle: 'Я всегда был любопытен, как всё устроено',
-  intro: `Я начал заниматься разработкой программного обеспечения в 2001 году. Меня всегда увлекало превращать абстрактные идеи в работающие системы, инструменты и продукты.
+        introTitle: 'Я всегда был любопытен, как всё устроено',
+        intro: `Я начал заниматься разработкой программного обеспечения в 2001 году. Меня всегда увлекало превращать абстрактные идеи в работающие системы, инструменты и продукты.
 
-  За более чем 20 лет я прошёл путь от разработчика и бизнес-аналитика до предпринимателя и создателя собственных продуктов. Работал с информационными системами, данными, BI, автоматизацией и бизнес-процессами.`,
+За более чем 20 лет я прошёл путь от разработчика и бизнес-аналитика до предпринимателя и создателя собственных продуктов. Работал с информационными системами, данными, BI, автоматизацией и бизнес-процессами.`,
 
-  buildingTitle: 'От кода к продуктам',
-  building: `Один из главных проектов моей профессиональной жизни - система управления для логистических и экспедиторских компаний.
+        buildingTitle: 'От кода к продуктам',
+        building: `Один из главных проектов моей профессиональной жизни - система управления для логистических и экспедиторских компаний.
 
-  Я начинал с разработки программного обеспечения, но со временем это превратилось в полноценный продукт и бизнес. Здесь сошлись архитектура, автоматизация, интеграции, аналитика, работа с клиентами, ценообразование и продуктовая стратегия.
+Я начинал с разработки программного обеспечения, но со временем это превратилось в полноценный продукт и бизнес. Здесь сошлись архитектура, автоматизация, интеграции, аналитика, работа с клиентами, ценообразование и продуктовая стратегия.
 
-  Именно здесь я особенно хорошо понял, что хороший продукт - это не только код. Это система, в которой технологии, люди и бизнес должны работать вместе.`,
+Именно здесь я особенно хорошо понял, что хороший продукт - это не только код. Это система, в которой технологии, люди и бизнес должны работать вместе.`,
 
-  dataTitle: 'Данные, AI и системы знаний',
-  data: `Моё образование связано с AI и геоинформационными системами, поэтому мне всегда были близки карты, графы, базы данных, связи и поиск закономерностей в больших объёмах информации.
+        dataTitle: 'Данные, AI и системы знаний',
+        data: `Моё образование связано с AI и геоинформационными системами, поэтому мне всегда были близки карты, графы, базы данных, связи и поиск закономерностей в больших объёмах информации.
 
-  Сегодня я снова всё больше погружаюсь в AI, LLM, системы знаний и автоматизацию информационных процессов. Меня интересует один и тот же вопрос: как превратить знания в работающую систему, которая помогает находить связи, принимать решения и создавать что-то новое?`,
+Сегодня я снова всё больше погружаюсь в AI, LLM, системы знаний и автоматизацию информационных процессов. Меня интересует один и тот же вопрос: как превратить знания в работающую систему, которая помогает находить связи, принимать решения и создавать что-то новое?`,
 
-  genealogyTitle: 'А потом появилась генеалогия',
-  genealogy: `Генеалогией я занимаюсь уже более 15 лет. Сначала это было обычное любопытство к истории своей семьи. Потом появились метрические книги, переписи, архивные документы, старые карты, земельные дела, варианты написания фамилий, исчезнувшие деревни и, наконец, генетическая генеалогия.
+        genealogyTitle: 'А потом появилась генеалогия',
+        genealogy: `Генеалогией я занимаюсь уже более 15 лет. Сначала это было обычное любопытство к истории своей семьи. Потом появились метрические книги, переписи, архивные документы, старые карты, земельные дела, варианты написания фамилий, исчезнувшие деревни и, наконец, генетическая генеалогия.
 
-  Постепенно собственное семейное дерево превратилось в отдельное исследование.
+Постепенно собственное семейное дерево превратилось в отдельное исследование.
 
-  И здесь я неожиданно обнаружил ту же задачу, что и в IT: огромный объём разрозненной информации нужно собрать, проверить, связать между собой и превратить в понятную картину.`,
+И здесь я неожиданно обнаружил ту же задачу, что и в IT: огромный объём разрозненной информации нужно собрать, проверить, связать между собой и превратить в понятную картину.`,
 
-  connectionTitle: 'Разные проекты. Одна и та же идея.',
-  connection: `На бумаге мои интересы могут выглядеть довольно разными: разработка ПО, бизнес, AI, данные, карты, история и генеалогия.
+        connectionTitle: 'Разные проекты. Одна и та же идея.',
+        connection: `На бумаге мои интересы могут выглядеть довольно разными: разработка ПО, бизнес, AI, данные, карты, история и генеалогия.
 
-  Для меня это всё части одной системы мышления.
+Для меня это всё части одной системы мышления.
 
-  Мне интересно находить структуру в хаосе, соединять разрозненные факты, проверять гипотезы и превращать знания в работающие инструменты. Иногда это происходит в коде, иногда в бизнесе, а иногда - в старой метрической книге, где одна строчка может изменить всё семейное дерево.`,
+Мне интересно находить структуру в хаосе, соединять разрозненные факты, проверять гипотезы и превращать знания в работающие инструменты. Иногда это происходит в коде, иногда в бизнесе, а иногда - в старой метрической книге, где одна строчка может изменить всё семейное дерево.`,
 
-  nowTitle: 'Что я делаю сейчас',
-  now: `Я продолжаю создавать программные продукты и системы, исследовать возможности AI и работать с данными и знаниями.
+        nowTitle: 'Что я делаю сейчас',
+        now: `Я продолжаю создавать программные продукты и системы, исследовать возможности AI и работать с данными и знаниями.
 
-  Параллельно развиваю Heritavia - проект, посвящённый восстановлению семейной истории с помощью архивных документов, исторических источников, карт и генетической генеалогии.
+Параллельно развиваю Heritavia - проект, посвящённый восстановлению семейной истории с помощью архивных документов, исторических источников, карт и генетической генеалогии.
 
-  По сути, направление остаётся тем же: искать связи, собирать знания и превращать их в систему.`,
+По сути, направление остаётся тем же: искать связи, собирать знания и превращать их в систему.`,
 
-  closing: `Создавать полезные вещи.
+        closing: `Создавать полезные вещи.
 Следовать за интересными вопросами.
 Соединять точки.
 И продолжать учиться.`,
 
-  signature: 'Знания → системы → открытия.',
- },
+        signature: 'Знания → системы → открытия.',
+      },
     },
     contact: {
       title: 'Contact — Vitaly Khoruzhko',
@@ -474,20 +474,17 @@ export const pages = {
       description: 'Віталь Харужка: прадпрымальнік і full-stack, 20+ гадоў TMS/CRM/ERP/BI.',
       eyebrow: 'About',
       heading: 'Я ствараю сыстэмы з ведаў.',
-      lead: 'Інжынэр, прадпрымальнік і стваральнік прадуктаў. Больш за 20 гадоў я працую з праграмным забесьпячэньнем, дадзенымі і бізнэс-сыстэмамі. Сёньня дасьледую AI і сыстэмы ведаў, а ў вольны час будую ўласнае сямейнае дрэва, якое даўно перарасло ў асобны дасьледчы праект.',
+      lead: 'Я — Віталь Харужка, інжынэр, прадпрымальнік і стваральнік прадуктаў. Больш за 20 гадоў я працую з праграмным забесьпячэньнем, дадзенымі і бізнэс-сыстэмамі. Сёньня дасьледую AI і сыстэмы ведаў, а ў вольны час будую ўласнае сямейнае дрэва, якое даўно перарасло ў асобны дасьледчы праект.',
       products:
         'Прадукты й паслугі не зьмешваю на адной вітрыне: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, сямейная гісторыя — на heritavia.vitalykhoruzhko.com.',
       cta: 'Зьвязацца',
       story: {
-
         introTitle: 'Мне заўсёды было цікава, як усё ўладкавана',
-
         intro: `Я пачаў займацца распрацоўкай праграмнага забесьпячэньня ў 2001 годзе. Мяне заўсёды захапляла магчымасьць ператвараць абстрактныя ідэі ў працуючыя сыстэмы, інструмэнты і прадукты.
 
 За больш чым 20 гадоў я прайшоў шлях ад распрацоўніка і бізнэс-аналітыка да прадпрымальніка і стваральніка ўласных прадуктаў. Працаваў з інфармацыйнымі сыстэмамі, дадзенымі, BI, аўтаматызацыяй і бізнэс-працэсамі.`,
 
         buildingTitle: 'Ад коду да прадуктаў',
-
         building: `Адзін з галоўных праектаў майго прафэсійнага жыцьця - сыстэма кіраваньня для лягістычных і экспэдытарскіх кампаніяў.
 
 Я пачынаў з распрацоўкі праграмнага забесьпячэньня, але з часам гэта ператварылася ў паўнавартасны прадукт і бізнэс. Тут сышліся архітэктура, аўтаматызацыя, інтэграцыі, аналітыка, праца з кліентамі, цэнаўтварэньне і прадуктовая стратэгія.
@@ -495,13 +492,11 @@ export const pages = {
 Менавіта тут я асабліва добра зразумеў, што добры прадукт - гэта ня толькі код. Гэта сыстэма, у якой тэхналёгіі, людзі і бізнэс павінны працаваць разам.`,
 
         dataTitle: 'Дадзеныя, AI і сыстэмы ведаў',
-
         data: `Мая адукацыя зьвязаная з AI і геаінфармацыйнымі сыстэмамі, таму мне заўсёды былі блізкія мапы, графы, базы дадзеных, сувязі і пошук заканамернасьцяў у вялікіх аб'ёмах інфармацыі.
 
 Сёньня я ўсё больш паглыбляюся ў AI, LLM, сыстэмы ведаў і аўтаматызацыю інфармацыйных працэсаў. Мяне цікавіць адно і тое ж пытаньне: як ператварыць веды ў працуючую сыстэму, якая дапамагае знаходзіць сувязі, прымаць рашэньні і ствараць нешта новае?`,
 
         genealogyTitle: 'А потым зьявілася генэалёгія',
-
         genealogy: `Генэалёгіяй я займаюся ўжо больш за 15 гадоў. Спачатку гэта была звычайная цікаўнасьць да гісторыі сваёй сям'і. Потым зьявіліся мэтрычныя кнігі, перапісы, архіўныя дакумэнты, старыя мапы, зямельныя справы, варыянты напісаньня прозьвішчаў, зьніклыя вёскі і, нарэшце, генэтычная генэалёгія.
 
 Паступова ўласнае сямейнае дрэва ператварылася ў асобнае дасьледаваньне.
@@ -509,7 +504,6 @@ export const pages = {
 І тут я нечакана выявіў тую ж задачу, што і ў IT: велізарны аб'ём разрозьненай інфармацыі трэба сабраць, праверыць, зьвязаць паміж сабой і ператварыць у зразумелую карціну.`,
 
         connectionTitle: 'Розныя праекты. Адна і тая ж ідэя.',
-
         connection: `На паперы мае інтарэсы могуць выглядаць даволі рознымі: распрацоўка ПЗ, бізнэс, AI, дадзеныя, мапы, гісторыя і генэалёгія.
 
 Для мяне ўсё гэта - часткі адной сыстэмы мысьленьня.
@@ -517,7 +511,6 @@ export const pages = {
 Мне цікава знаходзіць структуру ў хаосе, злучаць разрозьненыя факты, правяраць гіпотэзы і ператвараць веды ў працуючыя інструмэнты. Часам гэта адбываецца ў кодзе, часам у бізнэсе, а часам - у старой мэтрычнай кнізе, дзе адзін радок можа зьмяніць усё сямейнае дрэва.`,
 
         nowTitle: 'Што я раблю цяпер',
-
         now: `Я працягваю ствараць праграмныя прадукты і сыстэмы, дасьледаваць магчымасьці AI і працаваць з дадзенымі ды ведамі.
 
 Паралельна разьвіваю Heritavia - праект, прысьвечаны аднаўленьню сямейнай гісторыі з дапамогай архіўных дакумэнтаў, гістарычных крыніцаў, мапаў і генэтычнай генэалёгіі.
@@ -534,28 +527,8 @@ export const pages = {
 
         signature: 'Веды → сыстэмы → адкрыцьці.',
       },
-    }, // ← ЗАКРЫВАЕМ about
-
-    contact: {
-      title: 'Contact — Віталь Харужка',
-      description: 'Зьвязацца зь Віталіем Харужка.',
-      eyebrow: 'Contact',
-      heading: 'Напішыце',
-      leadAfter: ' · ці форма ніжэй.',
-      topic: 'Тэма',
-      name: 'Імя',
-      email: 'Email',
-      message: 'Паведамленьне',
-      submit: 'Адправіць',
-      topics: {
-        general: 'Агульнае пытаньне',
-        alfakit: 'ALFAKIT / Domino',
-        semper: 'Semper In Motu / Ops',
-        heritavia: 'Heritavia',
-        other: 'Іншае',
-      },
     },
-  }, // ← ЗАКРЫВАЕМ be
+  },
 } satisfies Record<Locale, unknown>;
 
 export const personJsonLd = {
