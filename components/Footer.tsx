@@ -40,9 +40,6 @@ export function Footer({ locale }: { locale: Locale }) {
                 </a>
               </li>
               <li>
-                <Link href={href(locale, 'contact')}>{t.formLink}</Link>
-              </li>
-              <li>
                 <a href="https://www.linkedin.com/in/vitalykhoruzhko" rel="noopener">
                   LinkedIn
                 </a>
@@ -51,8 +48,7 @@ export function Footer({ locale }: { locale: Locale }) {
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© 2001-{new Date().getFullYear()} Vitaly Khoruzhko</span>
-          <span>{t.unp}</span>
+          <span>© 2001-{new Date().getFullYear()} Vitaly Khoruzhko</span>          
         </div>
       </div>
     </footer>
