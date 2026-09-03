@@ -51,7 +51,7 @@ export function Footer({ locale }: { locale: Locale }) {
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© {new Date().getFullYear()} Vitaly Khoruzhko</span>
+          <span>© 2001-{new Date().getFullYear()} Vitaly Khoruzhko</span>
           <span>{t.unp}</span>
         </div>
       </div>

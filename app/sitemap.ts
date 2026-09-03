@@ -1,5 +1,8 @@
 import { canonical, LOCALES, PAGES, type Locale, type Page } from '@/lib/i18n';
+
 import type { MetadataRoute } from 'next';
+
+export const dynamic = 'force-static';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   return LOCALES.flatMap((locale) =>

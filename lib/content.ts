@@ -110,7 +110,6 @@ export const pages = {
       lead: 'Entrepreneur and full-stack builder, 20+ years TMS/CRM/ERP/BI, AI+GIS since 2003. Strength: turning knowledge into systems with audit, provenance and human-in-the-loop.',
       products:
         'Products stay on separate surfaces: Domino on alfakit.by, Ops/data/AI on semperinmotu.com, family history on heritavia.vitalykhoruzhko.com.',
-      principle: 'Principle: no focus dilution. Healthcare and craft stay off the storefront.',
       cta: 'Get in touch',
     },
     contact: {
@@ -192,7 +191,6 @@ export const pages = {
       lead: 'Предприниматель и full-stack, 20+ лет TMS/CRM/ERP/BI, AI+GIS с 2003. Суперсила: превращать знания в системы с audit, provenance и human-in-the-loop.',
       products:
         'Продукты и услуги не смешиваю на одной витрине: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, семейная история — на heritavia.vitalykhoruzhko.com.',
-      principle: 'Принцип: не размываем фокус. Healthcare и craft — не на витрине.',
       cta: 'Связаться',
     },
     contact: {
@@ -274,7 +272,6 @@ export const pages = {
       lead: 'Прадпрымальнік і full-stack, 20+ гадоў TMS/CRM/ERP/BI, AI+GIS з 2003. Суперсіла: ператвараць веды ў сыстэмы з audit, provenance і human-in-the-loop.',
       products:
         'Прадукты й паслугі не зьмешваю на адной вітрыне: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, сямейная гісторыя — на heritavia.vitalykhoruzhko.com.',
-      principle: 'Прынцып: не размываем фокус. Healthcare і craft — не на вітрыне.',
       cta: 'Зьвязацца',
     },
     contact: {

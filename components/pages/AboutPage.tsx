@@ -17,9 +17,6 @@ export function AboutPage({ locale }: { locale: Locale }) {
       <section className="section">
         <div className="wrap panel">
           <p className="muted">{t.products}</p>
-          <p className="fine" style={{ marginTop: '1rem' }}>
-            {t.principle}
-          </p>
           <Link className="btn btn-ink" style={{ marginTop: '1.25rem' }} href={href(locale, 'contact')}>
             {t.cta}
           </Link>
