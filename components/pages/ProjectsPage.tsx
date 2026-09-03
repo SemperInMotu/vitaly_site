@@ -4,7 +4,7 @@ import { projectLinks, type Locale } from '@/lib/i18n';
 export function ProjectsPage({ locale }: { locale: Locale }) {
   const t = pages[locale].projects;
   const p = projectLinks(locale);
-  const links = [p.alfakit, p.semper, p.heritage];
+  const links = [p.alfakit, p.semper];
 
   return (
     <>
