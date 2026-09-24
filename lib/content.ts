@@ -98,7 +98,7 @@ export const pages = {
         {
           title: 'Heritavia',
           body: 'Research packages, living report, search strategy — the service application site.',
-          more: 'heritavia.vitalykhoruzhko.com →',
+          more: 'heritavia.com →',
         },
       ],
     },
@@ -109,7 +109,7 @@ export const pages = {
       heading: 'I build systems from knowledge.',
       lead: 'I’m Vitaly Khoruzhko — an engineer, entrepreneur, and product builder. I’ve spent more than 20 years working with software, data, and business systems. Today, I explore AI and knowledge systems, while in my spare time I’m building my own family tree, which has long since grown into a research project of its own.',
       products:
-        'Products stay on separate surfaces: Domino on alfakit.by, Ops/data/AI on semperinmotu.com, family history on heritavia.vitalykhoruzhko.com.',
+        'Products stay on separate surfaces: Domino on alfakit.by, Ops/data/AI on semperinmotu.com, family history on heritavia.com.',
       cta: 'Get in touch',
     
       story: {
@@ -337,7 +337,7 @@ And keep learning.`,
         {
           title: 'Heritavia',
           body: 'Пакеты Research, живой отчёт, стратегия поиска — сайт-приложение сервиса.',
-          more: 'heritavia.vitalykhoruzhko.com →',
+          more: 'heritavia.com →',
         },
       ],
     },
@@ -348,7 +348,7 @@ And keep learning.`,
       heading: 'Я создаю системы из знаний.',
       lead: 'Я — Виталий Хоружко, инженер, предприниматель и создатель продуктов. Более 20 лет в разработке ПО, данных и бизнес-системах. Сегодня исследую AI и системы знаний, а в свободное время строю собственное семейное дерево, которое уже давно превратилось в отдельное исследование.',
       products:
-        'Продукты и услуги не смешиваю на одной витрине: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, семейная история — на heritavia.vitalykhoruzhko.com.',
+        'Продукты и услуги не смешиваю на одной витрине: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, семейная история — на heritavia.com.',
       cta: 'Связаться',
     
       story: {
@@ -465,7 +465,7 @@ And keep learning.`,
         {
           title: 'Heritavia',
           body: 'Пакеты Research, жывая справаздача, стратэґія пошуку — сайт-дастасаваньне сэрвісу.',
-          more: 'heritavia.vitalykhoruzhko.com →',
+          more: 'heritavia.com →',
         },
       ],
     },
@@ -476,7 +476,7 @@ And keep learning.`,
       heading: 'Я ствараю сыстэмы з ведаў.',
       lead: 'Я — Віталь Харужка, інжынэр, прадпрымальнік і стваральнік прадуктаў. Больш за 20 гадоў я працую з праграмным забесьпячэньнем, дадзенымі і бізнэс-сыстэмамі. Сёньня дасьледую AI і сыстэмы ведаў, а ў вольны час будую ўласнае сямейнае дрэва, якое даўно перарасло ў асобны дасьледчы праект.',
       products:
-        'Прадукты й паслугі не зьмешваю на адной вітрыне: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, сямейная гісторыя — на heritavia.vitalykhoruzhko.com.',
+        'Прадукты й паслугі не зьмешваю на адной вітрыне: Domino — на alfakit.by, Ops/data/AI — на semperinmotu.com, сямейная гісторыя — на heritavia.com.',
       cta: 'Зьвязацца',
       story: {
         introTitle: 'Мне заўсёды было цікава, як усё ўладкавана',

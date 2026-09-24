@@ -55,7 +55,7 @@ export function ContactPage({ locale }: { locale: Locale }) {
               {' · '}
               <a href="https://semperinmotu.com" rel="noopener noreferrer" target="_blank">Semper In Motu</a>
               {' · '}
-              <a href="https://heritavia.vitalykhoruzhko.com" rel="noopener noreferrer" target="_blank">Heritavia</a>
+              <a href="https://www.heritavia.com" rel="noopener noreferrer" target="_blank">Heritavia</a>
             </p>
           </div>
         </div>

@@ -64,6 +64,6 @@ export function projectLinks(locale: Locale) {
   return {
     alfakit: `https://alfakit.by${suffix === '/' ? '/' : suffix}`,
     semper: `https://semperinmotu.com${suffix === '/' ? '/' : suffix}`,
-    heritage: `https://heritavia.vitalykhoruzhko.com${suffix === '/' ? '/' : suffix}`,
+    heritage: 'https://www.heritavia.com',
   };
 }
