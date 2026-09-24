@@ -47,6 +47,13 @@ export function AboutPage({locale}: { locale: Locale }) {
           </section>
 
           <section className="about-block">
+            <h2>{t.story.photographyTitle}</h2>
+            {t.story.photography.split('\n\n').map((paragraph, i) => (
+              <p key={i}>{paragraph}</p>
+            ))}
+          </section>
+
+          <section className="about-block">
             <h2>{t.story.connectionTitle}</h2>
             {t.story.connection.split('\n\n').map((paragraph, i) => (
               <p key={i}>{paragraph}</p>

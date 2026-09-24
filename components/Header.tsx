@@ -1,7 +1,7 @@
 'use client';
 
 import { ui } from '@/lib/content';
-import { href, LANG_KEY, LOCALES, pageFromPath, siblingHref, type Locale } from '@/lib/i18n';
+import { href, LANG_KEY, LOCALES, NAV_PAGES, navFromPath, siblingHref, type Locale, type NavPage } from '@/lib/i18n';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useState } from 'react';
@@ -16,7 +16,7 @@ function remember(lang: string) {
 
 export function Header({ locale }: { locale: Locale }) {
   const pathname = usePathname() || '/';
-  const current = pageFromPath(pathname);
+  const current = navFromPath(pathname);
   const t = ui[locale];
   const [open, setOpen] = useState(false);
 
@@ -56,19 +56,16 @@ export function Header({ locale }: { locale: Locale }) {
           </button>
         </div>
         <nav className={open ? 'nav is-open' : 'nav'} id="site-nav">
-          <Link href={href(locale, 'projects')} aria-current={current === 'projects' ? 'page' : undefined}>
-            {t.projects}
-          </Link>
-          <Link href={href(locale, 'about')} aria-current={current === 'about' ? 'page' : undefined}>
-            {t.about}
-          </Link>
-          <Link
-            className="nav-cta"
-            href={href(locale, 'contact')}
-            aria-current={current === 'contact' ? 'page' : undefined}
-          >
-            {t.contact}
-          </Link>
+          {NAV_PAGES.map((page) => (
+            <Link
+              key={page}
+              href={href(locale, page)}
+              className={page === 'contact' ? 'nav-cta' : undefined}
+              aria-current={current === page ? 'page' : undefined}
+            >
+              {t[page as NavPage]}
+            </Link>
+          ))}
         </nav>
       </div>
     </header>

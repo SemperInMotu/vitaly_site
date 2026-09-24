@@ -1,6 +1,6 @@
-import { ProjectsPage } from '@/components/pages/ProjectsPage';
+import { RedirectTo } from '@/components/RedirectTo';
+import { canonical } from '@/lib/i18n';
 import { localeFrom } from '@/lib/params';
-import { pageMetadata } from '@/lib/seo';
 import type { Metadata } from 'next';
 
 export async function generateMetadata({
@@ -9,10 +9,13 @@ export async function generateMetadata({
   params: Promise<{ locale: string }>;
 }): Promise<Metadata> {
   const locale = await localeFrom(params);
-  return pageMetadata(locale, 'projects');
+  return {
+    title: 'Building — Vitaly Khoruzhko',
+    robots: { index: false, follow: true },
+    alternates: { canonical: canonical(locale, 'building') },
+  };
 }
 
 export default async function Page({ params }: { params: Promise<{ locale: string }> }) {
-  const locale = await localeFrom(params);
-  return <ProjectsPage locale={locale} />;
+  return <RedirectTo locale={await localeFrom(params)} page="building" />;
 }

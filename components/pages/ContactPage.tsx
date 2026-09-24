@@ -5,19 +5,19 @@ const customText = {
     eyebrow: "Contact",
     heading: "Write",
     intro: "Let's talk. I’m always open to interesting ideas, projects and conversations - whether they are about software, AI, data, genealogy, or something completely unexpected.",
-    projects: "Projects",
+    projects: "Work",
   },
   ru: {
     eyebrow: "Контакты",
     heading: "Напишите",
     intro: "Я всегда открыт для интересных идей, проектов и общения — будь то разработка ПО, искусственный интеллект, работа с данными, генеалогия или что-то совершенно неожиданное.",
-    projects: "Проекты",
+    projects: "Work",
   },
   be: {
     eyebrow: "Кантакты",
     heading: "Напішыце",
     intro: "Я заўжды адкрыты да цікавых ідэяў, праектаў і размоваў — няхай гэта будзе праграмнае забесьпячэньне, штучны інтэлект, дадзеныя, генеалёгія ці штосьці цалкам нечаканае.",
-    projects: "Праекты",
+    projects: "Work",
   }
 };
 
@@ -55,7 +55,7 @@ export function ContactPage({ locale }: { locale: Locale }) {
               {' · '}
               <a href="https://semperinmotu.com" rel="noopener noreferrer" target="_blank">Semper In Motu</a>
               {' · '}
-              <a href="https://heritavia.vitalykhoruzhko.com" rel="noopener noreferrer" target="_blank">Heritavia</a>
+              <a href="https://www.heritavia.com" rel="noopener noreferrer" target="_blank">Heritavia</a>
             </p>
           </div>
         </div>

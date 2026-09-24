@@ -1,8 +1,13 @@
-import { ProjectsPage } from '@/components/pages/ProjectsPage';
-import { pageMetadata } from '@/lib/seo';
+import { RedirectTo } from '@/components/RedirectTo';
+import { canonical } from '@/lib/i18n';
+import type { Metadata } from 'next';
 
-export const metadata = pageMetadata('en', 'projects');
+export const metadata: Metadata = {
+  title: 'Building — Vitaly Khoruzhko',
+  robots: { index: false, follow: true },
+  alternates: { canonical: canonical('en', 'building') },
+};
 
 export default function Page() {
-  return <ProjectsPage locale="en" />;
+  return <RedirectTo locale="en" page="building" />;
 }

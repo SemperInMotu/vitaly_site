@@ -1,5 +1,5 @@
 import { GoogleAnalytics } from '@/components/GoogleAnalytics';
-import { fraunces, sourceSans } from '@/lib/fonts';
+import { fraunces, plexMono, sourceSans } from '@/lib/fonts';
 
 export function RootHtml({
   lang,
@@ -10,7 +10,7 @@ export function RootHtml({
 }) {
   return (
     <html lang={lang}>
-      <body className={`${fraunces.variable} ${sourceSans.variable}`}>
+      <body className={`${fraunces.variable} ${sourceSans.variable} ${plexMono.variable}`}>
         <GoogleAnalytics />
         {children}
       </body>

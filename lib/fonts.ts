@@ -1,4 +1,4 @@
-import { Fraunces, Source_Sans_3 } from 'next/font/google';
+import { Fraunces, IBM_Plex_Mono, Source_Sans_3 } from 'next/font/google';
 
 export const fraunces = Fraunces({
   subsets: ['latin', 'latin-ext'],
@@ -12,4 +12,11 @@ export const sourceSans = Source_Sans_3({
   variable: '--font-source-sans',
   display: 'swap',
   weight: ['400', '500', '600', '700'],
+});
+
+export const plexMono = IBM_Plex_Mono({
+  subsets: ['latin', 'latin-ext', 'cyrillic', 'cyrillic-ext'],
+  variable: '--font-mono',
+  display: 'swap',
+  weight: ['400', '500'],
 });
