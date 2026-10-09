@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="robots" content="noindex" />
+    <title>Page not found — Vitaly Khoruzhko</title>
+    <script>
+      (function () {
+        var path = location.pathname || '/';
+        var to = '/sitemap';
+        if (path === '/ru' || path.indexOf('/ru/') === 0) to = '/ru/sitemap';
+        else if (path === '/be' || path.indexOf('/be/') === 0) to = '/be/sitemap';
+        location.replace(to);
+      })();
+    </script>
+    <meta http-equiv="refresh" content="0;url=/sitemap" />
+  </head>
+  <body>
+    <p>Page not found. <a href="/sitemap">Sitemap →</a></p>
+  </body>
+</html>

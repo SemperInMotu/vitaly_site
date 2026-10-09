@@ -6,7 +6,7 @@ export type Locale = (typeof LOCALES)[number];
 export const ROUTED_LOCALES = ['ru', 'be'] as const;
 export type RoutedLocale = (typeof ROUTED_LOCALES)[number];
 
-export const PAGES = ['home', 'projects', 'about', 'contact'] as const;
+export const PAGES = ['home', 'projects', 'about', 'contact', 'sitemap'] as const;
 export type Page = (typeof PAGES)[number];
 
 export const LANG_KEY = 'vk-lang';
@@ -56,6 +56,7 @@ export function pageFromPath(pathname: string): Page {
   if (rest === '/projects') return 'projects';
   if (rest === '/about') return 'about';
   if (rest === '/contact') return 'contact';
+  if (rest === '/sitemap') return 'sitemap';
   return 'home';
 }
 

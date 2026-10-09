@@ -44,6 +44,9 @@ export function Footer({ locale }: { locale: Locale }) {
                   LinkedIn
                 </a>
               </li>
+              <li>
+                <Link href={href(locale, 'sitemap')}>{t.sitemap}</Link>
+              </li>
             </ul>
           </div>
         </div>
