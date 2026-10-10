@@ -21,7 +21,7 @@ export function pageMetadata(locale: Locale, page: Page): Metadata {
       languages: {
         en: canonical('en', page),
         ru: canonical('ru', page),
-        be: canonical('be', page),
+        'be-tarask': canonical('be', page),
         'x-default': canonical('en', page),
       },
     },

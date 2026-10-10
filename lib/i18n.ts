@@ -1,4 +1,6 @@
 export const SITE = 'https://vitalykhoruzhko.com';
+/** Last significant content/URL change (W3C date for sitemap lastmod). */
+export const SITE_LASTMOD = '2026-10-10';
 
 export const LOCALES = ['en', 'ru', 'be'] as const;
 export type Locale = (typeof LOCALES)[number];
@@ -36,7 +38,7 @@ export function href(locale: Locale, page: Page): string {
 export function canonical(locale: Locale, page: Page): string {
   const path = href(locale, page);
   if (path === '/') return `${SITE}/`;
-  return `${SITE}${path}/`;
+  return `${SITE}${path}`;
 }
 
 export function stripLocale(pathname: string): string {
